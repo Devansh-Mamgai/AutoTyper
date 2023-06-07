@@ -45,6 +45,6 @@ for i in range (1000):
         pass
         #pyautogui.press("enter")
 
-pyautogui.typewrite("code-by : cosmos_dx")
+pyautogui.typewrite("code-by : devansh")
 
 fp.close()
